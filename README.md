@@ -1,2 +1,1 @@
-# improved-fps-controller
-An improved first person character controller for Godot. Watch the video tutorial here:  https://youtu.be/Nn2mi5sI8bM
+OUTDATED AND BUGGY. USE THIS INSTEAD https://github.com/GarbajYT/godot_updated_fps_controller
